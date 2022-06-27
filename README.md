@@ -14,8 +14,6 @@
 ### Permite se ter uma ideia sobre a criação de landing pages para aplicar em projetos reais.
 
 
-<p> 
-    <img width="900" height="500" src="https://prnt.sc/iC9AjMZ9NoP9" >
-</p>
+
 
 
