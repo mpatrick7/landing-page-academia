@@ -15,7 +15,7 @@
 
 
 <p> 
-    <img width="900" height="500" src="src/gif6.gif" >
+    <img width="900" height="500" src="src/https://prnt.sc/iC9AjMZ9NoP9" >
 </p>
 
 
